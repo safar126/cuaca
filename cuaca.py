@@ -9,7 +9,7 @@ hed ={
 logo = """#Author : Safar              #
 #Support : My Team           #
 #Team : From XiuzCode        #
-#Tool : Translate            #
+#Tool : Cek Cuaca            #
 #My Contact : +6282288231535 #"""
 def awal():
 	os.system('clear') 
